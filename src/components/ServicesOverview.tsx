@@ -42,7 +42,7 @@ const ServicesOverview = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-            Our Services
+            Lunch & Dinner
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-8">
             From complete landscape design to specialized installations, we offer comprehensive 
