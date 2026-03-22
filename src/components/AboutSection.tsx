@@ -31,11 +31,11 @@ const AboutSection = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-            About Lawns 4 Less
+            About Joe's Bar
           </h2>
           
           <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
-            Serving Grand Junction and the surrounding Colorado communities, Lawns 4 Less 
+            Serving Grand Junction and the surrounding Colorado communities, Joe's Bar 
             has been transforming outdoor spaces for over two decades. We specialize in 
             complete landscaping solutions, from irrigation systems to custom stone work, 
             bringing your vision to life with quality craftsmanship and personalized service.
