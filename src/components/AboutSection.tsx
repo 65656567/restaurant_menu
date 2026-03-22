@@ -7,7 +7,7 @@ const AboutSection = () => {
     {
       icon: Leaf,
       title: "Eco-Friendly",
-      description: "Sustainable landscaping practices that respect Colorado's natural environment."
+      description: "Sustainable fishing practices that respect Colorado's natural environment."
     },
     {
       icon: Award,
