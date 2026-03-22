@@ -61,7 +61,7 @@ export default function ConsultationForm() {
         required
       />
       <button type="submit" className="px-4 py-2 bg-green-600 text-white rounded">
-        Schedule Your Consultation
+        Place Order
       </button>
       {status && <p>{status}</p>}
     </form>
